@@ -1,0 +1,40 @@
+.navsection {
+    padding-top: 32px;
+    max-width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    background-color: #0000;
+    text-decoration: none;
+    color: black;
+}
+
+.nameLogo {
+
+    float: left;
+    position: relative;
+    text-decoration: none;
+    width: 110px;
+    height: 19px;
+    padding-left: 10px;
+}
+
+.nav-p {
+    text-align: center;
+
+}
+
+.nav-link {
+    padding: 10px;
+}
+
+.navigation {
+    float: right;
+    max-width: fit-content;
+}
+
+* {
+    box-sizing: border-box;
+}
